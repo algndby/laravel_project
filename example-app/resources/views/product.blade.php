@@ -1,5 +1,5 @@
 @extends('Lyouts.master')
 
 @section('content')
-    khl
+    khllkkkkkkkkkkkkkkkkkkk
 @endsection
